@@ -63,11 +63,40 @@ td,th{border:1px solid var(--line);padding:5px 10px;text-align:center;white-spac
 .hit{font-size:12px;color:var(--mut);margin:0 0 6px}
 @media(max-width:860px){.main{grid-template-columns:1fr}.side{display:none}}
 </style>
+
+<style id="mobile-overflow-fix">
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+img, video, canvas, iframe, svg {
+  max-width: 100%;
+}
+@media (max-width: 600px) {
+  body {
+    width: 100%;
+    margin: 0;
+  }
+  .powered-by-tran-cong {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    margin: 20px auto 12px !important;
+    font-size: 13px !important;
+    line-height: 1.4;
+    text-align: center;
+    overflow-wrap: anywhere;
+  }
+}
+</style>
 </head>
 <body>
 <header class="hero"><div class="wrap">
 <button class="tg" id="tg" aria-label="Đổi giao diện sáng/tối">🌓 Sáng / Tối</button>
-<small>Kết nối tri thức với cuộc sống - Powered by Trần Công</small>
+<small>Kết nối tri thức với cuộc sống</small>
 <h1 id="ht">Đang tải…</h1>
 <p id="hp"></p>
 <div class="bar"><i id="pb"></i></div><div class="bt" id="pt"></div>
@@ -117,7 +146,7 @@ fetch("books.json").then(function(r){return r.json()}).then(function(a){BK=a;$("
 var m=/^#([^.]+)\.(\d+)$/.exec(location.hash),k=0,n=0;if(m){a.forEach(function(x,i){if(x.id==m[1]){k=i;n=+m[2]}})}openBook(k,n)});
 </script>
 
-<div class="powered-by-tran-cong" style="text-align:center;margin:24px 0 12px;font-size:14px;opacity:.75;">
+<div class="powered-by-tran-cong" style="text-align:center;margin:24px auto 12px;font-size:14px;opacity:.75;max-width:100%;overflow-wrap:anywhere;">
   Powered by Trần Công
 </div>
 </body>
