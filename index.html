@@ -116,5 +116,9 @@ $("bsel").onchange=function(){openBook(+this.value,0)};
 fetch("books.json").then(function(r){return r.json()}).then(function(a){BK=a;$("bsel").innerHTML=a.map(function(x,i){return '<option value="'+i+'">'+x.title+'</option>'}).join('');
 var m=/^#([^.]+)\.(\d+)$/.exec(location.hash),k=0,n=0;if(m){a.forEach(function(x,i){if(x.id==m[1]){k=i;n=+m[2]}})}openBook(k,n)});
 </script>
+
+<div class="powered-by-tran-cong" style="text-align:center;margin:24px 0 12px;font-size:14px;opacity:.75;">
+  Powered by Trần Công
+</div>
 </body>
 </html>
