@@ -1,6 +1,4 @@
-// Dữ liệu tóm tắt theo SGK Sinh học 10 – Kết nối tri thức với cuộc sống.
-// Mỗi lesson: [chapterIndex, mã bài, tên bài, trang bắt đầu, [loại, tiêu đề mục, nội dung]].
-export default {
+{
   "id": "sinh10-tap1",
   "title": "Sinh học 10 · Kết nối tri thức",
   "sub": "Tóm tắt kiến thức theo SGK · các bài học và hoạt động thực hành",
@@ -588,4 +586,4 @@ export default {
       ]
     ]
   ]
-};
+}
