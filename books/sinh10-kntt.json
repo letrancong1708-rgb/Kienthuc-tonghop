@@ -1,1 +1,113 @@
-
+// Dữ liệu tóm tắt theo SGK Sinh học 10 – Kết nối tri thức với cuộc sống.
+// Mỗi lesson: [chapterIndex, mã bài, tên bài, trang bắt đầu, [loại, tiêu đề mục, nội dung]].
+export default {
+  "id": "sinh10",
+  "title": "Sinh học 10 · Kết nối tri thức",
+  "sub": "Tóm tắt kiến thức theo SGK · các bài học và hoạt động thực hành",
+  "source": "SGK Sinh học 10 (Kết nối tri thức với cuộc sống) – PDF người dùng cung cấp",
+  "chapters": [
+    ["Phần mở đầu", "Giới thiệu Sinh học", "#0ea5a0"],
+    ["Phần I · Chương 1", "Thành phần hoá học của tế bào", "#ef6a5b"],
+    ["Phần I · Chương 2", "Cấu trúc tế bào", "#e8920c"],
+    ["Phần I · Chương 3", "Chuyển hoá vật chất và năng lượng trong tế bào", "#5b5ce6"],
+    ["Phần I · Chương 4", "Chu kì tế bào và phân bào", "#e0489b"],
+    ["Phần II · Chương 5", "Sự đa dạng và phương pháp nghiên cứu vi sinh vật", "#8b5cf6"],
+    ["Phần II · Chương 6", "Virus", "#0ea5a0"]
+  ],
+  "lessons": [
+    [0, "Bài 1", "Giới thiệu khái quát môn Sinh học", 5, [
+      ["d", "Khái niệm và đối tượng", [
+        "Sinh học là ngành khoa học nghiên cứu sự sống; đối tượng là sinh vật và các cấp độ tổ chức của thế giới sống."
+      ]],
+      ["f", "Mục tiêu và lĩnh vực", [
+        "Tìm hiểu cấu trúc, vận hành các quá trình sống; gồm nghiên cứu cơ bản và nghiên cứu ứng dụng."
+      ]],
+      ["f", "Vai trò và nghề nghiệp", [
+        "Sinh học liên quan đến y – dược, pháp y, nông – lâm – ngư nghiệp, bảo vệ môi trường và phát triển bền vững."
+      ]]
+    ]],
+    [0, "Bài 2", "Phương pháp nghiên cứu và học tập môn Sinh học", 12, [
+      ["d", "Phương pháp nghiên cứu", [
+        "Quan sát, thí nghiệm, làm việc trong phòng thí nghiệm, điều tra và xử lí dữ liệu."
+      ]],
+      ["g", "Kĩ năng học tập", [
+        "Đặt câu hỏi, xây dựng giả thuyết, thiết kế nghiên cứu, thu thập và phân tích bằng chứng, trình bày kết quả."
+      ]]
+    ]],
+    [0, "Bài 3", "Các cấp độ tổ chức của thế giới sống", 18, [
+      ["d", "Các cấp tổ chức", [
+        "Từ phân tử, bào quan, tế bào, mô, cơ quan, hệ cơ quan, cơ thể đến quần thể, quần xã và hệ sinh thái."
+      ]],
+      ["f", "Đặc điểm chung", [
+        "Thế giới sống có tổ chức theo nguyên tắc thứ bậc, là hệ thống mở, có khả năng tự điều chỉnh và liên tục tiến hoá."
+      ]]
+    ]],
+    [1, "Bài 4", "Các nguyên tố hoá học và nước", 23, [
+      ["d", "Nguyên tố hoá học", [
+        "Các nguyên tố chủ yếu cấu tạo nên tế bào gồm C, H, O, N, P, S; carbon tạo bộ khung cho các phân tử hữu cơ."
+      ]],
+      ["f", "Vai trò của nước", [
+        "Nước là dung môi, môi trường phản ứng, điều hoà nhiệt và góp phần duy trì cấu trúc tế bào."
+      ]]
+    ]],
+    [1, "Bài 5", "Các phân tử sinh học", 28, [
+      ["d", "Carbohydrate và lipid", [
+        "Carbohydrate cung cấp/dự trữ năng lượng và cấu trúc; lipid dự trữ năng lượng, cấu tạo màng và tham gia điều hoà."
+      ]],
+      ["f", "Protein và nucleic acid", [
+        "Protein gồm amino acid, có vai trò cấu trúc và xúc tác; DNA/RNA gồm nucleotide, lưu giữ và truyền đạt thông tin di truyền."
+      ]]
+    ]],
+    [1, "Bài 6", "Thực hành: Nhận biết một số phân tử sinh học", 38, [
+      ["g", "Mục tiêu thực hành", [
+        "Sử dụng thuốc thử và quan sát hiện tượng để nhận biết một số chất hữu cơ trong mẫu vật."
+      ]],
+      ["n", "Lưu ý", [
+        "Ghi rõ mẫu, thuốc thử, hiện tượng và kết luận; tuân thủ an toàn phòng thí nghiệm."
+      ]]
+    ]],
+    [2, "Bài 7", "Tế bào nhân sơ", 44, [
+      ["d", "Đặc điểm", [
+        "Tế bào nhân sơ thường nhỏ, chưa có nhân hoàn chỉnh và không có bào quan có màng."
+      ]],
+      ["f", "Cấu trúc", [
+        "Các thành phần thường gặp: màng sinh chất, tế bào chất, vùng nhân; có thể có thành tế bào, vỏ nhầy, roi và lông."
+      ]]
+    ]],
+    [2, "Bài 8", "Tế bào nhân thực", 49, [
+      ["d", "Đặc điểm chung", [
+        "Có nhân được bao bọc bởi màng nhân và hệ thống bào quan có màng."
+      ]],
+      ["f", "Bào quan", [
+        "Nhân lưu giữ DNA; ribosome tổng hợp protein; lưới nội chất và Golgi chế biến/vận chuyển; ti thể tạo ATP; lục lạp quang hợp ở thực vật."
+      ]]
+    ]],
+    [2, "Bài 9", "Thực hành: Quan sát tế bào", 61, [
+      ["g", "Kĩ năng kính hiển vi", [
+        "Chuẩn bị tiêu bản, điều chỉnh ánh sáng và lấy nét để quan sát tế bào."
+      ]],
+      ["n", "Báo cáo", [
+        "Vẽ hình quan sát, chú thích cấu trúc nhận biết được và so sánh mẫu tế bào."
+      ]]
+    ]],
+    [2, "Bài 10", "Trao đổi chất qua màng tế bào", 64, [
+      ["d", "Vận chuyển thụ động", [
+        "Chất di chuyển theo gradien nồng độ, không tiêu tốn năng lượng; gồm khuếch tán và thẩm thấu."
+      ]],
+      ["f", "Vận chuyển chủ động", [
+        "Vận chuyển ngược gradien cần năng lượng và protein vận chuyển; nhập bào và xuất bào vận chuyển vật chất kích thước lớn."
+      ]]
+    ]],
+    [2, "Bài 11", "Thực hành: Thí nghiệm co và phản co nguyên sinh", 70, [
+      ["g", "Nguyên tắc", [
+        "Thay đổi môi trường ưu trương/nhược trương làm nước đi qua màng, gây co hoặc phản co nguyên sinh ở tế bào thực vật."
+      ]]
+    ]],
+    [2, "Bài 12", "Truyền tin tế bào", 73, [
+      ["d", "Các bước truyền tin", [
+        "Tế bào phát tín hiệu; tế bào đích tiếp nhận qua thụ thể; tín hiệu được chuyển tiếp và tạo đáp ứng."
+      ]],
+      ["f", "Ý nghĩa", [
+        "Giúp tế bào phối hợp hoạt động, phản ứng với thay đổi môi trường và điều hoà các quá trình sống."
+      ]]
+    ]],
