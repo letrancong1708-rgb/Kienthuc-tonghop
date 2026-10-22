@@ -1,6 +1,4 @@
-// Tóm tắt học tập mở rộng theo SGK Sinh học 10 – Kết nối tri thức với cuộc sống.
-// Nội dung diễn đạt lại để ôn tập, không phải bản chép nguyên văn sách.
-export default {
+{
   "id": "sinh10-tap1",
   "title": "Sinh học 10 · Kết nối tri thức",
   "sub": "Tóm tắt kiến thức theo SGK · các bài học và hoạt động thực hành",
@@ -1116,4 +1114,4 @@ export default {
   ],
   "description": "Bản tóm tắt học tập mở rộng theo bố cục và thuật ngữ của SGK người dùng cung cấp. Nội dung được diễn đạt lại, không phải bản chép nguyên văn toàn bộ sách.",
   "version": "2.0-expanded"
-};
+}
