@@ -10,10 +10,10 @@
 <meta name="apple-mobile-web-app-title" content="Kiến thức tổng hợp">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="description" content="Ứng dụng học tập tổng hợp kiến thức sách giáo khoa lớp 10: Toán, Vật lí, Hóa học, Sinh học và Tiếng Anh.">
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="manifest" href="manifest.json">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="icon" href="./favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="manifest" href="./manifest.json">
 <title>Kiến thức tổng hợp</title>
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -160,5 +160,14 @@ var m=/^#([^.]+)\.(\d+)$/.exec(location.hash),k=0,n=0;if(m){a.forEach(function(x
 <div class="powered-by-tran-cong" style="text-align:center;margin:24px auto 12px;font-size:14px;opacity:.75;max-width:100%;overflow-wrap:anywhere;">
   Powered by Trần Công
 </div>
+
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('./sw.js').catch(function (err) { console.warn('Service worker registration failed:', err); });
+  });
+}
+</script>
+
 </body>
 </html>
