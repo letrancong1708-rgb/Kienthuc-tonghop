@@ -18,5 +18,10 @@
   "id": "english10-global-success",
   "title": "Tiếng Anh 10 · Global Success",
   "file": "books/english10-global-success.json"
+ },
+ {
+  "id": "vat-li-10-ket-noi-tri-thuc",
+  "title": "Vật lí 10 – Kết nối tri thức với cuộc sống",
+  "file": "books/vat-li-10-ket-noi-tri-thuc.json"
  }
 ]
