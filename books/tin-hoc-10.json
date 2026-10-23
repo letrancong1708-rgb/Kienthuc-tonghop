@@ -1,0 +1,1196 @@
+{
+  "id": "tin-hoc-10",
+  "title": "Tin học 10 · Sách giáo khoa Tin học 10",
+  "sub": "Tóm tắt kiến thức · 6 chủ đề · 34 bài",
+  "source": "Tên chủ đề, tên bài và số trang được lấy từ mục lục của PDF Tin học 10 người dùng cung cấp. Phần giải thích là bản tóm tắt phục vụ học tập theo các chủ đề, không phải bản chép nguyên văn toàn bộ SGK.",
+  "chapters": [
+    [
+      "Chủ đề 1",
+      "Máy tính và xã hội tri thức",
+      "#ef6a5b"
+    ],
+    [
+      "Chủ đề 2",
+      "Mạng máy tính và Internet",
+      "#16a085"
+    ],
+    [
+      "Chủ đề 3",
+      "Đạo đức, pháp luật và văn hóa trong môi trường số",
+      "#8b5cf6"
+    ],
+    [
+      "Chủ đề 4",
+      "Ứng dụng tin học",
+      "#0ea5a0"
+    ],
+    [
+      "Chủ đề 5",
+      "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "#e8920c"
+    ],
+    [
+      "Chủ đề 6",
+      "Hướng nghiệp với tin học",
+      "#db2777"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Bài 1",
+      "Thông tin và xử lí thông tin",
+      6,
+      [
+        [
+          "d",
+          "Thông tin và dữ liệu",
+          [
+            "Thông tin là những gì đem lại hiểu biết cho con người về thế giới xung quanh và về chính mình.",
+            "Dữ liệu là cách biểu diễn thông tin dưới dạng kí hiệu, văn bản, số, hình ảnh, âm thanh hoặc dạng số hóa để lưu trữ và xử lí.",
+            "Cùng một dữ liệu có thể mang ý nghĩa khác nhau tùy ngữ cảnh; xử lí dữ liệu nhằm tạo ra thông tin có ích."
+          ]
+        ],
+        [
+          "f",
+          "Quá trình xử lí thông tin",
+          [
+            "Một mô hình khái quát gồm: thu nhận dữ liệu, lưu trữ, xử lí, truyền hoặc đưa ra kết quả.",
+            "Máy tính thực hiện các thao tác theo chương trình và biểu diễn dữ liệu bằng các bit 0, 1.",
+            "Cần đánh giá độ chính xác, tính đầy đủ và nguồn gốc của thông tin trước khi sử dụng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt thông tin và dữ liệu, nêu ví dụ.",
+            "Mô tả các bước cơ bản trong quá trình xử lí thông tin."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 2",
+      "Vai trò của thiết bị thông minh và tin học đối với xã hội",
+      11,
+      [
+        [
+          "d",
+          "Thiết bị thông minh",
+          [
+            "Thiết bị thông minh có khả năng thu nhận, xử lí, trao đổi dữ liệu và hỗ trợ người dùng thông qua phần mềm hoặc kết nối mạng.",
+            "Điện thoại thông minh, đồng hồ thông minh, thiết bị nhà thông minh và cảm biến là những ví dụ thường gặp.",
+            "Các thiết bị thông minh được dùng trong học tập, y tế, giao thông, sản xuất và quản lí đời sống."
+          ]
+        ],
+        [
+          "f",
+          "Vai trò và trách nhiệm",
+          [
+            "Tin học giúp tăng tốc độ xử lí, tự động hóa công việc, kết nối con người và mở rộng khả năng tiếp cận tri thức.",
+            "Việc sử dụng công nghệ cũng đặt ra vấn đề về quyền riêng tư, an toàn thông tin, khoảng cách số và sự phụ thuộc vào thiết bị.",
+            "Cần sử dụng thiết bị đúng mục đích, bảo vệ dữ liệu cá nhân và cân bằng thời gian trực tuyến với hoạt động khác."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ba ví dụ về vai trò của tin học trong đời sống.",
+            "Kể một lợi ích và một rủi ro khi sử dụng thiết bị thông minh."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 3",
+      "Một số kiểu dữ liệu và dữ liệu văn bản",
+      16,
+      [
+        [
+          "d",
+          "Kiểu dữ liệu",
+          [
+            "Kiểu dữ liệu xác định tập giá trị có thể biểu diễn và những phép toán phù hợp trên các giá trị đó.",
+            "Các kiểu thường gặp gồm số nguyên, số thực, logic và xâu kí tự; lựa chọn kiểu phù hợp giúp chương trình xử lí đúng dữ liệu.",
+            "Dữ liệu văn bản được tạo từ các kí tự, chữ số, dấu cách và dấu câu theo một bảng mã."
+          ]
+        ],
+        [
+          "f",
+          "Biểu diễn văn bản",
+          [
+            "Máy tính mã hóa kí tự thành các dãy bit theo quy tắc mã hóa như Unicode.",
+            "Khi trao đổi văn bản giữa các hệ thống, cần dùng bảng mã và định dạng tương thích để tránh lỗi hiển thị.",
+            "Phân biệt giá trị số dùng để tính toán với dãy kí tự chỉ có hình thức giống số, chẳng hạn mã học sinh."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các kiểu dữ liệu thường gặp và ví dụ.",
+            "Vì sao cần thống nhất cách mã hóa kí tự khi trao đổi văn bản?"
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 4",
+      "Hệ nhị phân và dữ liệu số nguyên",
+      20,
+      [
+        [
+          "d",
+          "Hệ nhị phân",
+          [
+            "Hệ nhị phân dùng hai chữ số 0 và 1; mỗi vị trí có trọng số là một lũy thừa của 2.",
+            "Máy tính sử dụng các bit để biểu diễn dữ liệu và trạng thái logic.",
+            "Đổi một số nhị phân sang thập phân bằng cách cộng các trọng số của vị trí có bit bằng 1."
+          ]
+        ],
+        [
+          "f",
+          "Biểu diễn số nguyên",
+          [
+            "Một số nguyên không âm có thể biểu diễn bằng các bit theo hệ nhị phân.",
+            "Với n bit không dấu, số giá trị có thể biểu diễn là 2^n, từ 0 đến 2^n − 1.",
+            "Số bit giới hạn phạm vi giá trị; cần chọn cách biểu diễn phù hợp để tránh tràn số."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Đổi một số nhị phân đơn giản sang hệ thập phân.",
+            "Có thể biểu diễn bao nhiêu giá trị khác nhau bằng 8 bit?"
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 5",
+      "Dữ liệu logic",
+      24,
+      [
+        [
+          "d",
+          "Giá trị logic",
+          [
+            "Dữ liệu logic thường nhận một trong hai giá trị đúng hoặc sai, tương ứng True hoặc False trong nhiều ngôn ngữ lập trình.",
+            "Các phép toán logic cơ bản gồm phủ định (NOT), và (AND), hoặc (OR).",
+            "Biểu thức logic được dùng để kiểm tra điều kiện và điều khiển luồng thực hiện của chương trình."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng",
+          [
+            "AND chỉ đúng khi tất cả điều kiện thành phần đều đúng; OR đúng khi ít nhất một điều kiện đúng; NOT đảo giá trị đúng/sai.",
+            "Có thể kết hợp điều kiện bằng ngoặc để làm rõ thứ tự đánh giá.",
+            "Khi kiểm tra điều kiện, cần xét cả trường hợp đúng, sai và các giá trị biên."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Lập bảng kết quả cho AND, OR và NOT.",
+            "Viết một ví dụ điều kiện logic trong đời sống hoặc lập trình."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 6",
+      "Dữ liệu âm thanh và hình ảnh",
+      28,
+      [
+        [
+          "d",
+          "Số hóa âm thanh",
+          [
+            "Âm thanh là tín hiệu biến đổi theo thời gian; để máy tính xử lí, tín hiệu có thể được lấy mẫu và lượng tử hóa.",
+            "Tần số lấy mẫu và số bit biểu diễn mẫu ảnh hưởng đến chất lượng và dung lượng âm thanh số.",
+            "Nén âm thanh có thể giảm dung lượng, nhưng một số phương pháp nén làm mất một phần thông tin."
+          ]
+        ],
+        [
+          "f",
+          "Biểu diễn hình ảnh",
+          [
+            "Ảnh bitmap gồm các điểm ảnh (pixel); độ phân giải là số lượng điểm ảnh theo chiều ngang và dọc.",
+            "Độ sâu màu cho biết số bit dùng biểu diễn màu của mỗi pixel; tăng độ phân giải hoặc độ sâu màu thường làm tăng dung lượng.",
+            "Ảnh vector biểu diễn hình bằng đối tượng hình học, thường phóng to ít bị vỡ hơn ảnh bitmap."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các yếu tố ảnh hưởng đến dung lượng ảnh số.",
+            "Phân biệt ảnh bitmap và ảnh vector."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 7",
+      "Thực hành sử dụng thiết bị số thông dụng",
+      33,
+      [
+        [
+          "d",
+          "Sử dụng thiết bị số",
+          [
+            "Thiết bị số cần được thiết lập, cập nhật và sử dụng theo hướng dẫn để bảo đảm an toàn và hiệu quả.",
+            "Cần quản lí mật khẩu, khóa màn hình, quyền truy cập ứng dụng và sao lưu dữ liệu quan trọng.",
+            "Khi kết nối thiết bị với máy tính hoặc mạng công cộng, cần chú ý nguồn thiết bị, quyền chia sẻ và nguy cơ phần mềm độc hại."
+          ]
+        ],
+        [
+          "f",
+          "Thực hành an toàn",
+          [
+            "Kiểm tra cài đặt quyền riêng tư, bật cơ chế khóa phù hợp và cập nhật phần mềm thường xuyên.",
+            "Không mở tệp hoặc liên kết đáng ngờ; không chia sẻ mã xác thực, mật khẩu hay thông tin nhạy cảm.",
+            "Trước khi chuyển giao hoặc sửa chữa thiết bị, nên sao lưu và xóa dữ liệu cá nhân theo cách an toàn."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Liệt kê các bước cơ bản để bảo vệ một thiết bị số.",
+            "Nêu cách xử lí khi nhận được tệp đính kèm không rõ nguồn gốc."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 8",
+      "Mạng máy tính trong cuộc sống hiện đại",
+      38,
+      [
+        [
+          "d",
+          "Khái niệm và lợi ích",
+          [
+            "Mạng máy tính là tập hợp các thiết bị được kết nối để trao đổi dữ liệu và chia sẻ tài nguyên.",
+            "Mạng hỗ trợ liên lạc, học tập trực tuyến, làm việc cộng tác, chia sẻ tệp và sử dụng các dịch vụ từ xa.",
+            "Mạng có thể được phân loại theo phạm vi như mạng cục bộ (LAN) và mạng diện rộng (WAN)."
+          ]
+        ],
+        [
+          "f",
+          "Thành phần mạng",
+          [
+            "Thiết bị đầu cuối, phương tiện truyền dẫn và thiết bị mạng phối hợp để chuyển dữ liệu.",
+            "Bộ chuyển mạch (switch), bộ định tuyến (router) và điểm truy cập không dây có các vai trò khác nhau trong kết nối mạng.",
+            "Hiệu quả mạng phụ thuộc vào băng thông, độ trễ, chất lượng thiết bị và mức độ an toàn."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu lợi ích của mạng máy tính trong học tập.",
+            "Phân biệt mạng LAN với mạng WAN theo phạm vi sử dụng."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 9",
+      "An toàn trên không gian mạng",
+      44,
+      [
+        [
+          "d",
+          "Nguy cơ trên mạng",
+          [
+            "Các nguy cơ phổ biến gồm lừa đảo trực tuyến, mã độc, đánh cắp tài khoản, rò rỉ dữ liệu và bắt nạt trên mạng.",
+            "Kẻ xấu có thể giả mạo tổ chức hoặc người quen để yêu cầu cung cấp thông tin, chuyển tiền hay mở liên kết.",
+            "Thông tin đăng công khai có thể bị sao chép và lan truyền; cần suy nghĩ trước khi chia sẻ."
+          ]
+        ],
+        [
+          "f",
+          "Biện pháp bảo vệ",
+          [
+            "Dùng mật khẩu mạnh và khác nhau cho các dịch vụ quan trọng; bật xác thực nhiều yếu tố khi có thể.",
+            "Kiểm tra địa chỉ trang web, người gửi và yêu cầu bất thường; cập nhật hệ điều hành, phần mềm bảo vệ và sao lưu dữ liệu.",
+            "Khi gặp nội dung gây hại, không tiếp tục tương tác; lưu bằng chứng cần thiết, chặn và báo cáo với người có trách nhiệm."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu dấu hiệu nhận biết một tin nhắn lừa đảo.",
+            "Đề xuất các bước bảo vệ tài khoản trực tuyến."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 10",
+      "Thực hành khai thác tài nguyên trên Internet",
+      50,
+      [
+        [
+          "d",
+          "Tìm kiếm thông tin",
+          [
+            "Công cụ tìm kiếm giúp tra cứu trang web, hình ảnh, video và tài liệu trên Internet.",
+            "Từ khóa cụ thể, dấu ngoặc kép cho cụm từ chính xác và các bộ lọc giúp thu hẹp kết quả.",
+            "Thứ tự xuất hiện của kết quả không bảo đảm rằng nguồn đứng đầu luôn đúng hoặc đáng tin cậy."
+          ]
+        ],
+        [
+          "f",
+          "Đánh giá nguồn và bản quyền",
+          [
+            "Đánh giá thông tin bằng cách xem tác giả, tổ chức xuất bản, ngày cập nhật, bằng chứng và đối chiếu với nguồn độc lập.",
+            "Khi sử dụng tài liệu, cần ghi nguồn, tuân thủ giấy phép và tôn trọng quyền tác giả.",
+            "Không tải hoặc cài đặt tệp từ trang không đáng tin cậy; chú ý quyền riêng tư khi dùng dịch vụ trực tuyến."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu cách kiểm tra độ tin cậy của một trang thông tin.",
+            "Vì sao cần ghi nguồn khi sử dụng tài liệu tìm được trên Internet?"
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 11",
+      "Ứng xử trên môi trường số. Nghĩa vụ tôn trọng bản quyền",
+      55,
+      [
+        [
+          "d",
+          "Văn hóa ứng xử số",
+          [
+            "Môi trường số là nơi con người giao tiếp, học tập, làm việc và tạo nội dung qua các nền tảng công nghệ.",
+            "Ứng xử có trách nhiệm gồm dùng ngôn ngữ tôn trọng, không quấy rối, không phát tán tin chưa kiểm chứng và tôn trọng sự khác biệt.",
+            "Cần cân nhắc đối tượng tiếp nhận, dấu vết số và hậu quả trước khi đăng bình luận hoặc chia sẻ nội dung."
+          ]
+        ],
+        [
+          "f",
+          "Bản quyền",
+          [
+            "Tác phẩm số như văn bản, ảnh, nhạc, video và phần mềm có thể được bảo hộ quyền tác giả.",
+            "Sử dụng hợp pháp cần tuân theo giấy phép, điều kiện trích dẫn và mục đích sử dụng; ghi tên tác giả không tự động làm mọi hành vi sao chép trở nên hợp pháp.",
+            "Ưu tiên nội dung được phép sử dụng, nội dung có giấy phép phù hợp hoặc tự tạo; không tự ý phát tán bản sao trái phép."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ba nguyên tắc ứng xử có trách nhiệm trên mạng.",
+            "Phân biệt ghi nguồn với quyền được sao chép và sử dụng tác phẩm."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 12",
+      "Phần mềm thiết kế đồ họa",
+      63,
+      [
+        [
+          "d",
+          "Đồ họa và phần mềm đồ họa",
+          [
+            "Phần mềm đồ họa dùng để tạo, chỉnh sửa và trình bày hình ảnh phục vụ học tập, truyền thông và thiết kế.",
+            "Đồ họa bitmap được tạo từ pixel; đồ họa vector được tạo từ đường, điểm, đường cong và các hình học.",
+            "Chọn phần mềm và kiểu đồ họa dựa vào mục đích sản phẩm, yêu cầu chất lượng và định dạng đầu ra."
+          ]
+        ],
+        [
+          "f",
+          "Quy trình thiết kế",
+          [
+            "Xác định yêu cầu, tạo bố cục, lựa chọn màu sắc và chữ, xây dựng các đối tượng, sau đó kiểm tra và xuất tệp.",
+            "Các thao tác phổ biến gồm tạo hình, chọn màu, căn chỉnh, nhóm đối tượng, thay đổi kích thước và lưu dự án.",
+            "Cần lưu phiên bản làm việc và xuất đúng định dạng, kích thước, độ phân giải theo mục đích sử dụng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt đồ họa bitmap với đồ họa vector.",
+            "Nêu các bước cơ bản khi tạo một sản phẩm đồ họa."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 13",
+      "Bổ sung các đối tượng đồ họa",
+      69,
+      [
+        [
+          "d",
+          "Tạo và chỉnh sửa đối tượng",
+          [
+            "Đối tượng đồ họa có thể là hình cơ bản, đường thẳng, đường cong, văn bản hoặc hình ảnh được nhập vào.",
+            "Các thuộc tính thường chỉnh sửa gồm kích thước, vị trí, đường viền, màu tô, độ trong suốt và thứ tự xếp chồng.",
+            "Nhóm các đối tượng có liên quan giúp di chuyển và chỉnh sửa bố cục thuận tiện hơn."
+          ]
+        ],
+        [
+          "f",
+          "Tổ chức bố cục",
+          [
+            "Căn lề, phân bố khoảng cách, căn chỉnh và sử dụng lưới giúp sản phẩm dễ đọc và cân đối.",
+            "Màu sắc, kiểu chữ và kích thước nên thống nhất theo mục tiêu truyền đạt.",
+            "Lưu tệp nguồn để có thể sửa tiếp; xuất bản sao theo định dạng phù hợp khi hoàn thành."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Kể tên các thuộc tính có thể thay đổi của một đối tượng đồ họa.",
+            "Vì sao nên nhóm và căn chỉnh các đối tượng trong thiết kế?"
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 14",
+      "Làm việc với đối tượng đường và văn bản",
+      75,
+      [
+        [
+          "d",
+          "Đối tượng đường",
+          [
+            "Đường thẳng và đường cong dùng để tạo đường viền, biểu tượng và hình dạng phức tạp.",
+            "Đường cong có thể được điều khiển bằng các nút và tay nắm; chỉnh sửa nút giúp thay đổi hình dạng chính xác.",
+            "Độ dày, kiểu nét và màu đường cần phù hợp với độ tương phản và phong cách thiết kế."
+          ]
+        ],
+        [
+          "f",
+          "Đối tượng văn bản",
+          [
+            "Văn bản trong đồ họa có thể dùng để đặt tiêu đề, chú thích và thông tin chính.",
+            "Cần chọn phông chữ dễ đọc, kích thước hợp lí, căn lề rõ ràng và phân cấp tiêu đề – nội dung.",
+            "Kiểm tra lỗi chính tả, dấu tiếng Việt và khả năng hiển thị phông khi mở trên thiết bị khác."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu cách chỉnh sửa một đường cong trong phần mềm đồ họa.",
+            "Trình bày hai nguyên tắc giúp văn bản trong hình dễ đọc."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 15",
+      "Hoàn thiện hình ảnh đồ họa",
+      82,
+      [
+        [
+          "d",
+          "Hoàn thiện sản phẩm",
+          [
+            "Hoàn thiện hình ảnh gồm rà soát bố cục, màu sắc, đường nét, văn bản và tính nhất quán của các đối tượng.",
+            "Cần phóng to để kiểm tra chi tiết, thu nhỏ để đánh giá tổng thể và thử xem sản phẩm ở kích thước sử dụng thực tế.",
+            "Xuất hình đúng định dạng; PNG phù hợp khi cần nền trong suốt, JPEG thường dùng cho ảnh chụp, còn SVG phù hợp với đồ họa vector."
+          ]
+        ],
+        [
+          "f",
+          "Lưu trữ và chia sẻ",
+          [
+            "Giữ tệp nguồn có thể chỉnh sửa và tạo bản xuất để chia sẻ.",
+            "Đặt tên tệp rõ ràng, lưu đúng thư mục và kiểm tra tệp sau khi xuất.",
+            "Chỉ sử dụng hình ảnh, phông chữ và tài nguyên mà mình có quyền sử dụng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các bước kiểm tra trước khi xuất sản phẩm đồ họa.",
+            "Khi nào nên chọn PNG, JPEG hoặc SVG?"
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 16",
+      "Ngôn ngữ lập trình bậc cao và Python",
+      86,
+      [
+        [
+          "d",
+          "Ngôn ngữ lập trình",
+          [
+            "Ngôn ngữ lập trình dùng để diễn đạt thuật toán thành chương trình mà máy tính có thể thực hiện.",
+            "Ngôn ngữ bậc cao có cú pháp gần với cách con người biểu đạt hơn ngôn ngữ máy, giúp chương trình dễ đọc và bảo trì.",
+            "Python là ngôn ngữ bậc cao được dùng trong giáo dục, tự động hóa, phân tích dữ liệu và nhiều lĩnh vực khác."
+          ]
+        ],
+        [
+          "f",
+          "Làm việc với Python",
+          [
+            "Chương trình Python gồm các câu lệnh được thực hiện theo quy tắc cú pháp của ngôn ngữ.",
+            "Có thể chạy lệnh trong môi trường tương tác hoặc lưu chương trình vào tệp có phần mở rộng .py.",
+            "Cần chú ý thụt lề, dấu ngoặc, dấu hai chấm và cách viết tên biến để tránh lỗi cú pháp."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ưu điểm của ngôn ngữ lập trình bậc cao.",
+            "Phân biệt chạy lệnh trong môi trường tương tác với chạy tệp chương trình Python."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 17",
+      "Biến và lệnh gán",
+      91,
+      [
+        [
+          "d",
+          "Biến và giá trị",
+          [
+            "Biến là tên dùng để tham chiếu đến giá trị trong chương trình; giá trị có thể thay đổi trong quá trình thực hiện.",
+            "Trong Python, phép gán dùng dấu = để gắn giá trị bên phải cho biến bên trái, ví dụ x = 5.",
+            "Tên biến cần tuân thủ quy tắc định danh; không nên dùng từ khóa của ngôn ngữ làm tên biến."
+          ]
+        ],
+        [
+          "f",
+          "Biểu thức và cập nhật biến",
+          [
+            "Biểu thức kết hợp giá trị, biến và toán tử để tạo ra kết quả.",
+            "Lệnh gán có thể cập nhật giá trị dựa trên giá trị hiện có, chẳng hạn x = x + 1.",
+            "Cần phân biệt dấu = trong phép gán với dấu == dùng để so sánh bằng trong biểu thức điều kiện."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Giải thích vai trò của biến trong chương trình.",
+            "Dự đoán giá trị của biến sau một chuỗi lệnh gán đơn giản."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 18",
+      "Các lệnh vào ra đơn giản",
+      97,
+      [
+        [
+          "d",
+          "Nhập và xuất dữ liệu",
+          [
+            "Hàm input() nhận dữ liệu do người dùng nhập và trả về một xâu kí tự.",
+            "Hàm print() hiển thị giá trị hoặc thông báo ra màn hình.",
+            "Muốn dùng dữ liệu nhập như số, thường cần chuyển kiểu bằng int() hoặc float() khi phù hợp."
+          ]
+        ],
+        [
+          "f",
+          "Ví dụ xử lí dữ liệu",
+          [
+            "Có thể nhập tên, tuổi hoặc các số, tính toán rồi in kết quả cho người dùng.",
+            "Cần kiểm tra dữ liệu đầu vào và thông báo rõ ràng để người dùng biết cần nhập gì.",
+            "Lỗi thường gặp gồm quên chuyển kiểu, nhập dữ liệu không đúng định dạng hoặc viết sai tên hàm."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu chức năng của input() và print().",
+            "Viết các bước để nhập hai số và in tổng của chúng."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 19",
+      "Câu lệnh rẽ nhánh if",
+      101,
+      [
+        [
+          "d",
+          "Rẽ nhánh điều kiện",
+          [
+            "Câu lệnh if cho phép thực hiện một khối lệnh khi biểu thức điều kiện có giá trị đúng.",
+            "Có thể dùng if ... else để chọn một trong hai nhánh, hoặc if ... elif ... else để xét nhiều trường hợp.",
+            "Trong Python, dấu hai chấm mở đầu khối lệnh và thụt lề xác định các câu lệnh thuộc khối."
+          ]
+        ],
+        [
+          "f",
+          "Thiết kế điều kiện",
+          [
+            "Biểu thức điều kiện thường dùng các phép so sánh như ==, !=, <, >, <= và >=.",
+            "Cần xác định rõ các trường hợp có thể xảy ra, kể cả giá trị biên, để tránh bỏ sót nhánh.",
+            "Nếu nhiều điều kiện có thể đồng thời đúng, cần sắp xếp thứ tự kiểm tra hợp lí."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Mô tả hoạt động của if ... else.",
+            "Viết thuật toán phân loại một số là dương, âm hoặc bằng 0."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 20",
+      "Câu lệnh lặp for",
+      105,
+      [
+        [
+          "d",
+          "Lặp với for",
+          [
+            "Câu lệnh for dùng để lặp qua các phần tử của một dãy hoặc một đối tượng có thể duyệt.",
+            "Hàm range() thường được dùng để tạo dãy số cho vòng lặp; điểm kết thúc của range không được lấy.",
+            "Vòng lặp giúp tránh viết lặp lại nhiều câu lệnh giống nhau."
+          ]
+        ],
+        [
+          "f",
+          "Kiểm soát vòng lặp",
+          [
+            "Xác định rõ số lần lặp và công việc cần thực hiện trong mỗi lượt.",
+            "Biến lặp thay đổi theo các giá trị của dãy; cần tránh vô tình ghi đè biến quan trọng.",
+            "Có thể dùng vòng lặp để tính tổng, đếm số phần tử hoặc xử lí từng dữ liệu."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Giải thích ý nghĩa của range(1, 6).",
+            "Viết thuật toán tính tổng các số từ 1 đến n bằng for."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 21",
+      "Câu lệnh lặp while",
+      108,
+      [
+        [
+          "d",
+          "Lặp với while",
+          [
+            "Câu lệnh while thực hiện một khối lệnh khi điều kiện còn đúng.",
+            "Khác với for thường duyệt một dãy, while phù hợp khi số lần lặp phụ thuộc vào điều kiện.",
+            "Nếu điều kiện không bao giờ trở thành sai, chương trình có thể rơi vào vòng lặp vô hạn."
+          ]
+        ],
+        [
+          "f",
+          "Thiết kế vòng lặp",
+          [
+            "Cần khởi tạo biến điều khiển, kiểm tra điều kiện, cập nhật biến trong thân vòng lặp và xác định điều kiện dừng.",
+            "Nên thử các trường hợp ban đầu, trường hợp dừng ngay và trường hợp cần nhiều lần lặp.",
+            "Chọn for hay while tùy theo việc số lượt lặp đã biết trước hay phụ thuộc vào dữ liệu."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ba thành phần quan trọng khi thiết kế vòng lặp while.",
+            "So sánh khi nào nên dùng for và khi nào nên dùng while."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 22",
+      "Kiểu dữ liệu danh sách",
+      111,
+      [
+        [
+          "d",
+          "Danh sách trong Python",
+          [
+            "Danh sách (list) lưu nhiều phần tử theo thứ tự trong một biến và có thể thay đổi sau khi tạo.",
+            "Danh sách được viết trong dấu ngoặc vuông, các phần tử phân cách bằng dấu phẩy.",
+            "Chỉ số phần tử bắt đầu từ 0; chỉ số âm có thể truy cập phần tử tính từ cuối danh sách."
+          ]
+        ],
+        [
+          "f",
+          "Truy cập và thay đổi",
+          [
+            "Có thể lấy phần tử bằng chỉ số, thay đổi phần tử, thêm phần tử hoặc xóa phần tử bằng các thao tác phù hợp.",
+            "Độ dài danh sách có thể lấy bằng len(); cần chú ý chỉ số ngoài phạm vi.",
+            "Danh sách có thể chứa dữ liệu cùng kiểu hoặc nhiều kiểu, nhưng nên tổ chức dữ liệu rõ ràng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu đặc điểm của kiểu dữ liệu list.",
+            "Cho một danh sách và xác định phần tử ở chỉ số 0, chỉ số 2 và chỉ số -1."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 23",
+      "Một số lệnh làm việc với dữ liệu danh sách",
+      115,
+      [
+        [
+          "d",
+          "Thao tác thường dùng",
+          [
+            "Các thao tác với danh sách gồm truy cập, cập nhật, thêm, xóa, duyệt và kiểm tra độ dài.",
+            "Các phương thức phổ biến có thể gồm append() để thêm phần tử vào cuối, insert() để chèn và pop() hoặc remove() để xóa theo cách tương ứng.",
+            "Cần phân biệt xóa theo chỉ số với xóa theo giá trị."
+          ]
+        ],
+        [
+          "f",
+          "Duyệt danh sách",
+          [
+            "Có thể dùng for để duyệt trực tiếp từng phần tử hoặc duyệt theo chỉ số khi cần vị trí.",
+            "Khi sửa danh sách trong lúc duyệt, cần chú ý việc thêm hoặc xóa có thể làm thay đổi vị trí phần tử.",
+            "Nên kiểm tra kết quả sau mỗi thao tác và thử với danh sách rỗng hoặc chỉ có một phần tử."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt append() và insert().",
+            "Nêu cách duyệt qua toàn bộ phần tử của một danh sách."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 24",
+      "Xâu kí tự",
+      119,
+      [
+        [
+          "d",
+          "Kiểu dữ liệu xâu",
+          [
+            "Xâu kí tự (str) dùng để biểu diễn văn bản, được đặt trong dấu nháy đơn hoặc nháy kép.",
+            "Xâu là dãy kí tự có thứ tự; có thể truy cập kí tự bằng chỉ số và lấy độ dài bằng len().",
+            "Trong Python, xâu không thể thay đổi trực tiếp từng kí tự tại chỗ; thao tác thường tạo ra xâu mới."
+          ]
+        ],
+        [
+          "f",
+          "Thao tác với xâu",
+          [
+            "Các thao tác thường dùng gồm nối xâu, lấy xâu con, kiểm tra sự xuất hiện của chuỗi và chuyển đổi chữ hoa/chữ thường.",
+            "Cần phân biệt dữ liệu số với xâu chứa chữ số; phép cộng hai xâu là nối chuỗi chứ không phải cộng số học.",
+            "Khi xử lí văn bản tiếng Việt, chú ý dấu, khoảng trắng và cách chuẩn hóa dữ liệu nếu cần."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu cách lấy độ dài và truy cập một kí tự của xâu.",
+            "Phân biệt phép cộng số với phép nối hai xâu."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 25",
+      "Một số lệnh làm việc với xâu kí tự",
+      123,
+      [
+        [
+          "d",
+          "Lệnh và phương thức xử lí xâu",
+          [
+            "Có thể dùng phép nối, toán tử kiểm tra chứa và các phương thức để tìm kiếm hoặc biến đổi xâu.",
+            "Các phương thức thường gặp gồm lower(), upper(), strip(), replace(), find() và split(); cần hiểu kết quả mà mỗi phương thức trả về.",
+            "Một số thao tác tạo ra danh sách các phần xâu, chẳng hạn tách văn bản theo dấu phân cách."
+          ]
+        ],
+        [
+          "f",
+          "Xử lí văn bản an toàn",
+          [
+            "Cần xác định dữ liệu có thể có khoảng trắng đầu/cuối, chữ hoa/chữ thường hoặc kí tự phân cách.",
+            "Không nên giả định dữ liệu nhập luôn đúng định dạng; cần kiểm tra và xử lí trường hợp thiếu hoặc sai dữ liệu.",
+            "Thử nghiệm bằng các xâu rỗng, có dấu cách và có dấu tiếng Việt giúp phát hiện lỗi."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu công dụng của strip(), replace() và split().",
+            "Mô tả cách kiểm tra một từ có xuất hiện trong một xâu hay không."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 26",
+      "Hàm trong Python",
+      127,
+      [
+        [
+          "d",
+          "Khái niệm hàm",
+          [
+            "Hàm là khối lệnh được đặt tên để thực hiện một nhiệm vụ, có thể được gọi nhiều lần trong chương trình.",
+            "Hàm giúp chia chương trình thành phần nhỏ, giảm lặp mã và tăng khả năng kiểm thử, bảo trì.",
+            "Trong Python, định nghĩa hàm bắt đầu bằng def, theo sau là tên hàm, tham số và dấu hai chấm."
+          ]
+        ],
+        [
+          "f",
+          "Tham số và giá trị trả về",
+          [
+            "Tham số cho phép truyền dữ liệu vào hàm; return dùng để trả kết quả cho nơi gọi hàm.",
+            "Cần phân biệt việc hàm hiển thị kết quả bằng print() với việc trả giá trị bằng return.",
+            "Tên hàm nên mô tả nhiệm vụ; mỗi hàm nên có mục đích rõ ràng và xử lí một công việc hợp lí."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu lợi ích của việc sử dụng hàm.",
+            "Phân biệt print() và return trong một hàm."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 27",
+      "Tham số của hàm",
+      131,
+      [
+        [
+          "d",
+          "Truyền tham số",
+          [
+            "Tham số được khai báo trong phần định nghĩa hàm; đối số là giá trị cụ thể truyền vào khi gọi hàm.",
+            "Hàm có thể nhận nhiều tham số và sử dụng chúng trong quá trình tính toán.",
+            "Số lượng và thứ tự đối số cần phù hợp với cách khai báo tham số, trừ các trường hợp có giá trị mặc định hoặc cách gọi được hỗ trợ."
+          ]
+        ],
+        [
+          "f",
+          "Thiết kế hàm",
+          [
+            "Chọn tên và tham số có ý nghĩa, xác định kiểu dữ liệu mong đợi và kết quả hàm tạo ra.",
+            "Kiểm tra hàm với nhiều bộ đối số, gồm giá trị thông thường và giá trị biên.",
+            "Tách công việc thành hàm nhỏ giúp tái sử dụng và làm chương trình dễ đọc hơn."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt tham số và đối số.",
+            "Thiết kế hàm nhận hai số và trả về số lớn hơn."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 28",
+      "Phạm vi của biến",
+      136,
+      [
+        [
+          "d",
+          "Phạm vi biến",
+          [
+            "Phạm vi biến là khu vực chương trình mà tên biến có thể được sử dụng.",
+            "Biến được tạo trong hàm thường là biến cục bộ; biến khai báo bên ngoài hàm có phạm vi khác và cần được sử dụng thận trọng.",
+            "Tên biến cục bộ có thể trùng tên biến bên ngoài, nhưng việc đó có thể làm chương trình khó hiểu nếu không quản lí rõ."
+          ]
+        ],
+        [
+          "f",
+          "Tổ chức chương trình",
+          [
+            "Nên truyền dữ liệu qua tham số và trả kết quả bằng return thay vì phụ thuộc quá nhiều vào biến toàn cục.",
+            "Biến nên được tạo ở phạm vi nhỏ nhất phù hợp với nhiệm vụ.",
+            "Khi có lỗi, cần theo dõi nơi biến được khởi tạo, cập nhật và sử dụng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt biến cục bộ và biến toàn cục.",
+            "Vì sao nên hạn chế sử dụng biến toàn cục không cần thiết?"
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 29",
+      "Nhận biết lỗi chương trình",
+      141,
+      [
+        [
+          "d",
+          "Các loại lỗi",
+          [
+            "Lỗi cú pháp xuất hiện khi câu lệnh không tuân theo quy tắc ngôn ngữ; chương trình thường không chạy được.",
+            "Lỗi khi thực hiện xảy ra trong lúc chương trình chạy, ví dụ chia cho 0 hoặc truy cập chỉ số không hợp lệ.",
+            "Lỗi logic là chương trình chạy nhưng kết quả không đúng với yêu cầu."
+          ]
+        ],
+        [
+          "f",
+          "Tìm và sửa lỗi",
+          [
+            "Đọc thông báo lỗi, xác định dòng có vấn đề và kiểm tra các biến, kiểu dữ liệu, điều kiện và thứ tự thao tác.",
+            "Dùng dữ liệu thử đơn giản, in giá trị trung gian hoặc chia chương trình thành phần nhỏ để tìm nguyên nhân.",
+            "Sau khi sửa, cần chạy lại các trường hợp thử để bảo đảm lỗi đã được khắc phục và không tạo lỗi mới."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt lỗi cú pháp, lỗi khi chạy và lỗi logic.",
+            "Nêu các bước cơ bản để tìm lỗi trong chương trình."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 30",
+      "Kiểm thử và gỡ lỗi chương trình",
+      145,
+      [
+        [
+          "d",
+          "Kiểm thử chương trình",
+          [
+            "Kiểm thử là chạy chương trình với dữ liệu được chọn để kiểm tra xem kết quả có đáp ứng yêu cầu hay không.",
+            "Bộ dữ liệu thử nên bao gồm trường hợp bình thường, giá trị biên, dữ liệu rỗng hoặc không hợp lệ nếu có thể xảy ra.",
+            "Một lần chạy thành công chưa đủ chứng minh chương trình đúng với mọi dữ liệu."
+          ]
+        ],
+        [
+          "f",
+          "Gỡ lỗi và cải tiến",
+          [
+            "Gỡ lỗi là quá trình tìm nguyên nhân và sửa lỗi; nên tái hiện lỗi, thu hẹp khu vực nghi ngờ, thay đổi có kiểm soát rồi kiểm thử lại.",
+            "Có thể dùng thông báo lỗi, công cụ gỡ lỗi hoặc các lệnh in để theo dõi trạng thái chương trình.",
+            "Ghi lại trường hợp đã kiểm thử giúp tránh lỗi cũ xuất hiện trở lại sau khi chỉnh sửa."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các loại dữ liệu nên có trong bộ kiểm thử.",
+            "Phân biệt kiểm thử với gỡ lỗi."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 31",
+      "Thực hành viết chương trình đơn giản",
+      149,
+      [
+        [
+          "d",
+          "Quy trình viết chương trình",
+          [
+            "Bắt đầu bằng việc hiểu yêu cầu, xác định dữ liệu vào, kết quả cần tạo và các bước xử lí.",
+            "Chuyển thuật toán thành câu lệnh Python, chạy thử với dữ liệu mẫu và so sánh kết quả với yêu cầu.",
+            "Chia bài toán thành các bước nhỏ giúp dễ lập trình và phát hiện sai sót."
+          ]
+        ],
+        [
+          "f",
+          "Trình bày và kiểm tra",
+          [
+            "Đặt tên biến có ý nghĩa, thụt lề nhất quán và viết chú thích khi cần làm rõ ý tưởng.",
+            "Thử nhiều trường hợp, kiểm tra dữ liệu biên và sửa lỗi trước khi hoàn thiện chương trình.",
+            "Lưu tệp chương trình đúng tên, đúng thư mục và ghi lại cách sử dụng nếu cần."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các bước từ phân tích bài toán đến kiểm thử chương trình.",
+            "Vì sao cần thử chương trình với nhiều bộ dữ liệu?"
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 32",
+      "Ôn tập lập trình Python",
+      153,
+      [
+        [
+          "d",
+          "Kiến thức tổng hợp",
+          [
+            "Các thành phần cơ bản đã học gồm biến, kiểu dữ liệu, lệnh vào/ra, biểu thức, rẽ nhánh, vòng lặp, danh sách, xâu và hàm.",
+            "Chương trình giải quyết bài toán thường kết hợp nhiều cấu trúc: nhập dữ liệu, kiểm tra điều kiện, lặp xử lí và xuất kết quả.",
+            "Chọn cấu trúc dữ liệu và thuật toán phù hợp giúp chương trình dễ hiểu và hiệu quả hơn."
+          ]
+        ],
+        [
+          "f",
+          "Chiến lược ôn tập",
+          [
+            "Đọc yêu cầu và mô phỏng từng bước thực hiện trước khi viết mã.",
+            "Kiểm tra kiểu dữ liệu, phạm vi biến, điều kiện dừng của vòng lặp và trường hợp đặc biệt.",
+            "Khi ôn tập, nên tự viết lại chương trình nhỏ từ đầu và giải thích được vì sao từng câu lệnh cần thiết."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Viết chương trình sử dụng danh sách để tính một kết quả đơn giản.",
+            "Nêu cách kết hợp hàm, vòng lặp và rẽ nhánh để giải quyết một bài toán."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 33",
+      "Nghề thiết kế đồ họa máy tính",
+      156,
+      [
+        [
+          "d",
+          "Công việc thiết kế đồ họa",
+          [
+            "Người thiết kế đồ họa tạo sản phẩm truyền đạt thông tin bằng hình ảnh, chữ, màu sắc và bố cục.",
+            "Sản phẩm có thể là áp phích, biểu trưng, ấn phẩm, giao diện, hình minh họa hoặc nội dung truyền thông số.",
+            "Công việc thường gồm tiếp nhận yêu cầu, nghiên cứu đối tượng, phác thảo ý tưởng, thiết kế, nhận phản hồi và hoàn thiện."
+          ]
+        ],
+        [
+          "f",
+          "Kĩ năng và đạo đức nghề nghiệp",
+          [
+            "Kĩ năng cần thiết gồm tư duy thẩm mỹ, sử dụng phần mềm, giao tiếp, quản lí thời gian và tiếp nhận góp ý.",
+            "Người thiết kế cần tôn trọng bản quyền, sử dụng tài nguyên hợp pháp và bảo đảm nội dung không gây hiểu lầm hoặc xúc phạm.",
+            "Hồ sơ năng lực (portfolio) thể hiện sản phẩm và quá trình phát triển kĩ năng của người làm nghề."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu nhiệm vụ chính của người thiết kế đồ họa máy tính.",
+            "Đề xuất một sản phẩm có thể đưa vào hồ sơ năng lực học sinh."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 34",
+      "Nghề phát triển phần mềm",
+      160,
+      [
+        [
+          "d",
+          "Công việc phát triển phần mềm",
+          [
+            "Phát triển phần mềm là quá trình phân tích yêu cầu, thiết kế, lập trình, kiểm thử, triển khai và bảo trì chương trình.",
+            "Các dự án có thể cần nhiều vai trò như phân tích nghiệp vụ, thiết kế giao diện, lập trình, kiểm thử và quản lí dự án.",
+            "Phần mềm cần đáp ứng yêu cầu người dùng, an toàn, dễ bảo trì và phù hợp với điều kiện vận hành."
+          ]
+        ],
+        [
+          "f",
+          "Kĩ năng và định hướng nghề nghiệp",
+          [
+            "Năng lực quan trọng gồm tư duy logic, giải quyết vấn đề, lập trình, làm việc nhóm, giao tiếp và học hỏi liên tục.",
+            "Quy trình làm phần mềm thường lặp lại qua các vòng xây dựng, kiểm thử, nhận phản hồi và cải tiến.",
+            "Học sinh có thể bắt đầu bằng dự án nhỏ, lưu mã nguồn có tổ chức, viết hướng dẫn sử dụng và thử nghiệm sản phẩm với người dùng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Mô tả các giai đoạn chính trong phát triển phần mềm.",
+            "Nêu các kĩ năng cần rèn luyện nếu muốn theo nghề phát triển phần mềm."
+          ]
+        ]
+      ]
+    ]
+  ]
+}
