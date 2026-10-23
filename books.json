@@ -33,5 +33,10 @@
     "id": "tin-hoc-10",
     "title": "Tin học 10 · Sách giáo khoa Tin học 10",
     "file": "books/tin-hoc-10.json"
+  },
+  {
+    "id": "giao-duc-quoc-phong-an-ninh-10",
+    "title": "Giáo dục quốc phòng và an ninh 10",
+    "file": "books/giao-duc-quoc-phong-an-ninh-10.json"
   }
 ]
