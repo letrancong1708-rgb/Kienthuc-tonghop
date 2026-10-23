@@ -1,0 +1,574 @@
+{
+  "id": "giao-duc-quoc-phong-an-ninh-10",
+  "title": "Giáo dục quốc phòng và an ninh 10",
+  "sub": "Kiến thức trọng tâm · 4 chủ đề · 12 bài",
+  "source": "Biên soạn dựa theo mục lục và các phần đọc được từ PDF SGK Giáo dục quốc phòng và an ninh 10 do người dùng cung cấp. Nội dung được diễn giải để học tập, không phải bản chép nguyên văn toàn bộ sách; với quy định pháp luật, sơ cứu và thao tác thực hành, cần theo văn bản/hướng dẫn chính thức còn hiệu lực.",
+  "chapters": [
+    [
+      "Chủ đề 1",
+      "Một số hiểu biết chung về quốc phòng và an ninh",
+      "#ef6a5b"
+    ],
+    [
+      "Chủ đề 2",
+      "Điều lệnh đội ngũ",
+      "#16a085"
+    ],
+    [
+      "Chủ đề 3",
+      "Chiến thuật bộ binh",
+      "#6c5ce7"
+    ],
+    [
+      "Chủ đề 4",
+      "Một số hiểu biết về phòng thủ dân sự",
+      "#2980b9"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Bài 1",
+      "Lịch sử, truyền thống của lực lượng vũ trang nhân dân Việt Nam",
+      5,
+      [
+        [
+          "d",
+          "Lực lượng vũ trang nhân dân Việt Nam",
+          [
+            "Lực lượng vũ trang nhân dân Việt Nam gồm Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ. Các lực lượng có chức năng, nhiệm vụ riêng nhưng phối hợp trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+            "Quân đội nhân dân là lực lượng nòng cốt trong thực hiện nhiệm vụ quốc phòng, bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ. Công an nhân dân là lực lượng nòng cốt bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội. Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát li sản xuất, công tác, được tổ chức ở địa phương và cơ quan, tổ chức theo quy định.",
+            "Những truyền thống của lực lượng vũ trang hình thành qua quá trình xây dựng, chiến đấu, trưởng thành và gắn bó với Nhân dân."
+          ]
+        ],
+        [
+          "d",
+          "Lịch sử, truyền thống Quân đội nhân dân Việt Nam",
+          [
+            "Ngày 22/12/1944, Đội Việt Nam Tuyên truyền Giải phóng quân được thành lập với 34 chiến sĩ, do Võ Nguyên Giáp trực tiếp chỉ huy; đây là tổ chức tiền thân của Quân đội nhân dân Việt Nam. Ngày 22/12 hằng năm là ngày truyền thống của Quân đội nhân dân Việt Nam.",
+            "Trong kháng chiến chống thực dân Pháp (1945–1954), lực lượng phát triển từ các đơn vị nhỏ đến quy mô lớn hơn, góp phần làm nên Chiến thắng Điện Biên Phủ năm 1954. Trong kháng chiến chống Mỹ, cứu nước (1954–1975), nghệ thuật tác chiến và hiệp đồng quân, binh chủng tiếp tục phát triển, góp phần vào thắng lợi của Chiến dịch Hồ Chí Minh năm 1975.",
+            "Từ sau thống nhất đất nước, Quân đội nhân dân được xây dựng theo hướng cách mạng, chính quy, tinh nhuệ, hiện đại; thực hiện nhiệm vụ bảo vệ Tổ quốc và góp phần giữ gìn hòa bình, ổn định."
+          ]
+        ],
+        [
+          "d",
+          "Công an nhân dân và Dân quân tự vệ",
+          [
+            "Ngày 19/8/1945 là ngày truyền thống Công an nhân dân Việt Nam. Qua các cuộc kháng chiến, Công an nhân dân bảo vệ chính quyền cách mạng, giữ gìn an ninh, hỗ trợ chiến đấu và cùng cả nước xây dựng, bảo vệ Tổ quốc.",
+            "Ngày 28/3/1935, Đảng thông qua nghị quyết về đội tự vệ; ngày 28/3 hằng năm là ngày truyền thống của lực lượng Dân quân tự vệ. Trong các cuộc kháng chiến, lực lượng này phát triển từ các đội nhỏ, làm nòng cốt ở địa phương và vận dụng cách đánh du kích phù hợp hoàn cảnh.",
+            "Truyền thống chung nổi bật là trung thành với Tổ quốc và Nhân dân, đoàn kết, kỉ luật, tự lực tự cường, gắn bó với Nhân dân và hoàn thành nhiệm vụ được giao."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ",
+          [
+            "Ba thành phần của lực lượng vũ trang nhân dân: Quân đội nhân dân, Công an nhân dân, Dân quân tự vệ.",
+            "Ngày truyền thống: Quân đội nhân dân 22/12; Công an nhân dân 19/8; Dân quân tự vệ 28/3.",
+            "Nghệ thuật quân sự Việt Nam phát triển qua từng giai đoạn, từ cách đánh du kích và quy mô nhỏ đến tác chiến hiệp đồng và chiến dịch."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu các giai đoạn chính trong lịch sử xây dựng, chiến đấu và trưởng thành của Quân đội nhân dân Việt Nam.",
+            "Trình bày truyền thống của Công an nhân dân và Dân quân tự vệ.",
+            "Viết đoạn văn thể hiện lòng biết ơn các thế hệ đã góp phần xây dựng, bảo vệ Tổ quốc."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 2",
+      "Nội dung cơ bản một số luật về quốc phòng và an ninh Việt Nam",
+      12,
+      [
+        [
+          "d",
+          "Vai trò của pháp luật về quốc phòng và an ninh",
+          [
+            "Pháp luật về quốc phòng và an ninh tạo cơ sở pháp lí cho việc xây dựng nền quốc phòng toàn dân, thế trận an ninh nhân dân, bảo vệ Tổ quốc và xác định trách nhiệm của cơ quan, tổ chức, công dân.",
+            "Công dân có trách nhiệm chấp hành Hiến pháp, pháp luật; thực hiện nghĩa vụ bảo vệ Tổ quốc theo quy định; tham gia giữ gìn an ninh, trật tự và tuyên truyền, vận động người khác tuân thủ pháp luật.",
+            "Khi học các quy định pháp luật, cần phân biệt quyền, nghĩa vụ, hành vi bị nghiêm cấm và trách nhiệm xử lí. Trường hợp cần áp dụng thực tế, phải đối chiếu văn bản pháp luật hiện hành."
+          ]
+        ],
+        [
+          "d",
+          "Nghĩa vụ và trách nhiệm công dân",
+          [
+            "Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý của công dân. Nghĩa vụ quân sự, đăng kí nghĩa vụ quân sự, thực hiện lệnh gọi khám sức khỏe và lệnh gọi nhập ngũ được thực hiện theo quy định pháp luật.",
+            "Học sinh cần tìm hiểu kiến thức quốc phòng, an ninh; rèn luyện sức khỏe, ý thức tổ chức kỉ luật; chấp hành quy định ở trường và địa phương; không tiếp tay cho hành vi xâm phạm an ninh, trật tự.",
+            "Không tự suy diễn thời hạn, độ tuổi, mức xử phạt hoặc thủ tục từ tài liệu tóm tắt; những chi tiết pháp lí có thể được sửa đổi và cần kiểm tra văn bản chính thức."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ",
+          [
+            "Pháp luật xác định trách nhiệm của Nhà nước, cơ quan, tổ chức và công dân trong quốc phòng, an ninh.",
+            "Thực hiện quyền và nghĩa vụ phải đúng quy định; khi có vấn đề pháp lí cụ thể, cần tra cứu văn bản còn hiệu lực."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu vì sao pháp luật cần quy định trách nhiệm của công dân trong bảo vệ Tổ quốc.",
+            "Kể những việc học sinh có thể làm để góp phần giữ gìn an ninh, trật tự tại trường và nơi ở.",
+            "Chọn một quy định đã học, giải thích ý nghĩa của quy định đó bằng ví dụ."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 3",
+      "Ma tuý, tác hại của ma tuý",
+      16,
+      [
+        [
+          "d",
+          "Khái niệm và các dạng ma túy",
+          [
+            "Ma túy là các chất gây nghiện, chất hướng thần thuộc danh mục do cơ quan có thẩm quyền quy định; việc sử dụng trái phép có thể gây lệ thuộc và nhiều hậu quả nghiêm trọng.",
+            "Ma túy có thể tồn tại dưới dạng tự nhiên, bán tổng hợp hoặc tổng hợp; dạng bào chế và tên gọi rất đa dạng. Không thể xác định một chất an toàn chỉ dựa vào màu sắc, hình dạng hay lời quảng cáo.",
+            "Việc sử dụng, tàng trữ, mua bán, vận chuyển hoặc lôi kéo người khác sử dụng ma túy có thể gây hậu quả sức khỏe, gia đình, xã hội và pháp lí."
+          ]
+        ],
+        [
+          "d",
+          "Tác hại của ma túy",
+          [
+            "Đối với sức khỏe, ma túy có thể làm tổn hại hệ thần kinh, tim mạch và các cơ quan khác; gây rối loạn cảm xúc, suy giảm trí nhớ, giảm khả năng học tập và làm việc. Nguy cơ phụ thuộc loại chất, liều lượng, cách dùng và tình trạng từng người.",
+            "Đối với gia đình và xã hội, ma túy có thể gây mâu thuẫn, gánh nặng kinh tế, tai nạn, bạo lực và các hành vi vi phạm pháp luật. Dùng chung dụng cụ tiêm chích còn làm tăng nguy cơ lây truyền bệnh.",
+            "Không thử chất không rõ nguồn gốc, không nhận đồ uống hoặc thuốc từ người lạ, không giữ hộ vật phẩm không biết rõ. Nếu nghi ngờ bị đầu độc hoặc quá liều, cần gọi cấp cứu và làm theo hướng dẫn chuyên môn."
+          ]
+        ],
+        [
+          "f",
+          "Phòng, chống ma túy",
+          [
+            "Trang bị kiến thức, xây dựng lối sống lành mạnh, lựa chọn bạn bè và hoạt động tích cực; kiên quyết từ chối lời rủ rê sử dụng chất không rõ nguồn gốc.",
+            "Không chia sẻ, quảng bá hay mua bán chất nghi là ma túy. Báo cho người lớn đáng tin cậy, nhà trường hoặc cơ quan chức năng khi phát hiện nguy cơ.",
+            "Người gặp vấn đề liên quan đến sử dụng chất cần được hỗ trợ y tế và xã hội phù hợp, không kì thị."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu tác hại của ma túy đối với bản thân, gia đình và cộng đồng.",
+            "Đóng vai cách từ chối khi bị bạn bè rủ dùng một chất không rõ nguồn gốc.",
+            "Liệt kê các bước cần làm khi phát hiện bạn có nguy cơ sử dụng ma túy."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 4",
+      "Phòng, chống vi phạm pháp luật về trật tự an toàn giao thông",
+      21,
+      [
+        [
+          "d",
+          "Trật tự, an toàn giao thông",
+          [
+            "Trật tự, an toàn giao thông là trạng thái giao thông được tổ chức theo quy tắc, giúp người và phương tiện di chuyển an toàn, thông suốt, hạn chế tai nạn và thiệt hại.",
+            "Vi phạm giao thông có thể gồm không chấp hành tín hiệu, đi sai phần đường, sử dụng phương tiện không đủ điều kiện, không đội mũ bảo hiểm đúng quy cách hoặc sử dụng rượu bia khi điều khiển phương tiện.",
+            "Tai nạn giao thông thường liên quan đến nhiều yếu tố: hành vi người tham gia giao thông, tình trạng phương tiện, hạ tầng và điều kiện thời tiết. Tuân thủ luật và chủ động phòng ngừa giúp giảm rủi ro."
+          ]
+        ],
+        [
+          "d",
+          "Trách nhiệm của học sinh",
+          [
+            "Đi bộ trên vỉa hè hoặc lề đường phù hợp, qua đường tại nơi an toàn, quan sát trước khi sang đường; không đùa nghịch, dàn hàng ngang hoặc sử dụng điện thoại gây mất tập trung khi đi đường.",
+            "Khi ngồi trên xe mô tô, xe gắn máy hoặc xe máy điện, đội mũ bảo hiểm đạt chuẩn và cài quai đúng cách. Người điều khiển phải đủ điều kiện theo pháp luật, chấp hành tín hiệu và tốc độ cho phép.",
+            "Không điều khiển phương tiện sau khi uống rượu bia hoặc dùng chất làm giảm tỉnh táo; không chở quá số người quy định; nhường đường và hỗ trợ người đi bộ, người yếu thế."
+          ]
+        ],
+        [
+          "f",
+          "Xử lí tình huống giao thông",
+          [
+            "Khi xảy ra va chạm, ưu tiên bảo đảm an toàn hiện trường, gọi cấp cứu nếu có người bị thương và báo cơ quan chức năng khi cần; không tự ý bỏ đi hoặc gây mất trật tự.",
+            "Không quay phim, phát tán hình ảnh người bị nạn để chế giễu; hỗ trợ trong khả năng an toàn và không làm tăng nguy cơ cho bản thân."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Phân tích một tình huống vi phạm giao thông và nêu hậu quả có thể xảy ra.",
+            "Lập danh sách các quy tắc an toàn khi đi bộ, đi xe đạp và ngồi trên xe máy.",
+            "Đề xuất một hoạt động tuyên truyền an toàn giao thông ở lớp hoặc trường."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 5",
+      "Bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội",
+      27,
+      [
+        [
+          "d",
+          "An ninh quốc gia và trật tự, an toàn xã hội",
+          [
+            "An ninh quốc gia liên quan đến sự ổn định, phát triển bền vững của chế độ và Nhà nước, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.",
+            "Trật tự, an toàn xã hội là trạng thái xã hội có kỉ cương, trong đó các quy tắc pháp luật và chuẩn mực được tôn trọng, quyền và lợi ích hợp pháp của tổ chức, cá nhân được bảo vệ.",
+            "Bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội là trách nhiệm của Nhà nước, lực lượng chức năng và toàn dân; cần phối hợp phòng ngừa, phát hiện và xử lí vi phạm theo pháp luật."
+          ]
+        ],
+        [
+          "d",
+          "Vai trò và trách nhiệm của công dân",
+          [
+            "Công dân chấp hành pháp luật, cảnh giác trước hành vi lôi kéo vi phạm, bảo vệ thông tin thuộc phạm vi riêng tư và không lan truyền tin chưa được kiểm chứng.",
+            "Khi phát hiện dấu hiệu nguy hiểm, hành vi phạm pháp hoặc nguy cơ ảnh hưởng cộng đồng, cần báo cho người lớn, nhà trường hoặc cơ quan có trách nhiệm; không tự ý đối đầu với đối tượng nguy hiểm.",
+            "Học sinh góp phần giữ an ninh, trật tự bằng cách thực hiện nội quy, giải quyết mâu thuẫn hòa bình, phòng chống bạo lực học đường và tham gia hoạt động cộng đồng."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ",
+          [
+            "Phòng ngừa là trách nhiệm chung; phát hiện và cung cấp thông tin cần đúng sự thật, đúng nơi tiếp nhận.",
+            "Không tự ý chia sẻ tin đồn, danh tính hoặc hình ảnh riêng tư có thể gây hại cho người khác."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Phân biệt khái quát an ninh quốc gia với trật tự, an toàn xã hội.",
+            "Nêu ba việc học sinh có thể thực hiện để xây dựng môi trường học đường an toàn.",
+            "Đề xuất cách xử lí khi thấy một tin đồn có thể gây hoang mang trong cộng đồng."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 6",
+      "Một số hiểu biết về an ninh mạng",
+      31,
+      [
+        [
+          "d",
+          "Khái niệm và nguy cơ an ninh mạng",
+          [
+            "Không gian mạng là môi trường kết nối các hệ thống thông tin, nơi người dùng trao đổi dữ liệu, học tập, làm việc và sử dụng dịch vụ số.",
+            "Nguy cơ thường gặp gồm lừa đảo trực tuyến, chiếm đoạt tài khoản, mã độc, rò rỉ dữ liệu, giả mạo danh tính, bắt nạt trên mạng và phát tán thông tin sai lệch.",
+            "Thông tin cá nhân như mật khẩu, mã xác thực, địa chỉ, số giấy tờ và dữ liệu tài chính cần được bảo vệ. Một thông tin tưởng như vô hại cũng có thể bị kết hợp với dữ liệu khác để giả mạo."
+          ]
+        ],
+        [
+          "d",
+          "Biện pháp bảo vệ bản thân",
+          [
+            "Dùng mật khẩu dài, khó đoán và không dùng lại cho nhiều tài khoản; bật xác thực nhiều yếu tố; khóa thiết bị và cập nhật phần mềm.",
+            "Kiểm tra địa chỉ trang web, người gửi và yêu cầu trước khi nhấp liên kết hoặc tải tệp. Không cung cấp mã OTP, mật khẩu hoặc thông tin tài chính theo yêu cầu bất ngờ.",
+            "Thiết lập quyền riêng tư phù hợp, chỉ chia sẻ thông tin cần thiết và xin phép trước khi đăng ảnh hoặc dữ liệu của người khác. Sao lưu tệp quan trọng."
+          ]
+        ],
+        [
+          "f",
+          "Khi gặp sự cố",
+          [
+            "Nếu tài khoản có dấu hiệu bị chiếm, dùng thiết bị an toàn để đổi mật khẩu, đăng xuất phiên lạ, bật xác thực nhiều yếu tố và liên hệ đơn vị cung cấp dịch vụ.",
+            "Lưu bằng chứng khi bị đe dọa hoặc lừa đảo; báo người lớn đáng tin cậy, nhà trường hoặc cơ quan chức năng. Không chuyển tiếp nội dung độc hại để cảnh báo theo cách làm lan truyền thêm."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Chỉ ra dấu hiệu đáng ngờ của tin nhắn yêu cầu bấm liên kết nhận quà.",
+            "Lập quy tắc sử dụng mạng an toàn cho lớp học.",
+            "Nêu các bước xử lí khi vô tình nhập mật khẩu vào một trang web giả mạo."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 7",
+      "Thường thức phòng tránh một số loại bom, mìn, đạn, vũ khí hoá học, vũ khí sinh học, vũ khí công nghệ cao, thiên tai, dịch bệnh và cháy nổ",
+      36,
+      [
+        [
+          "d",
+          "Nhận biết nguy cơ và nguyên tắc an toàn",
+          [
+            "Bom, mìn, đạn và vật liệu nổ còn sót lại có thể gây thương vong dù đã cũ, han gỉ hoặc nằm dưới đất. Không chạm, di chuyển, đá, tháo gỡ hay đốt vật thể nghi là vật nổ.",
+            "Vũ khí hóa học, sinh học và một số tác nhân nguy hiểm có thể gây ảnh hưởng nghiêm trọng đến sức khỏe. Không tiếp cận vật chất lạ, đám mây hoặc khu vực có cảnh báo; làm theo hướng dẫn của cơ quan chức năng.",
+            "Vũ khí công nghệ cao có thể sử dụng các công nghệ hiện đại để trinh sát, dẫn đường hoặc tấn công. Với học sinh, trọng tâm là hiểu nguy cơ, tuân thủ cảnh báo và biết cách tìm nơi trú ẩn an toàn theo hướng dẫn chính thức."
+          ]
+        ],
+        [
+          "d",
+          "Phòng tránh thiên tai và dịch bệnh",
+          [
+            "Theo dõi thông báo thời tiết và hướng dẫn sơ tán; chuẩn bị nước uống, thực phẩm phù hợp, thuốc thiết yếu, đèn pin, pin dự phòng và giấy tờ cần thiết.",
+            "Khi có bão, lũ, sạt lở hoặc giông sét, tránh khu vực nguy hiểm, không đi qua dòng nước chảy xiết và không trú dưới cây cao khi có sét. Chỉ trở về khu vực sơ tán khi cơ quan chức năng thông báo an toàn.",
+            "Phòng dịch bằng vệ sinh tay, thông khí, tiêm chủng theo khuyến cáo y tế và ở nhà khi có triệu chứng phù hợp. Làm theo hướng dẫn của cơ quan y tế thay vì tin đồn."
+          ]
+        ],
+        [
+          "d",
+          "Phòng cháy, chữa cháy và thoát nạn",
+          [
+            "Không quá tải ổ cắm, không để nguồn nhiệt gần vật dễ cháy, tắt thiết bị khi không dùng và giữ lối thoát hiểm thông thoáng.",
+            "Khi phát hiện cháy, báo động, gọi lực lượng cứu hỏa theo số khẩn cấp địa phương và thoát ra theo lối an toàn. Không quay lại lấy đồ; nếu có khói, cúi thấp và che mũi miệng bằng vải nếu có thể.",
+            "Chỉ sử dụng bình chữa cháy khi đám cháy nhỏ, có lối thoát phía sau và đã được hướng dẫn; không mạo hiểm với đám cháy lớn hoặc hóa chất không rõ loại."
+          ]
+        ],
+        [
+          "f",
+          "Quy tắc khi gặp vật nghi là bom mìn",
+          [
+            "Dừng lại, không chạm vào vật thể; bình tĩnh rời khỏi khu vực theo đường đã đi nếu có thể; cảnh báo người khác tránh xa và báo cơ quan chức năng.",
+            "Không đăng thông tin vị trí nhạy cảm một cách tùy tiện; cung cấp thông tin cần thiết cho cơ quan có trách nhiệm để xử lí an toàn."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu các việc tuyệt đối không làm khi phát hiện vật nghi là bom, mìn hoặc đạn.",
+            "Lập danh sách vật dụng cần chuẩn bị cho tình huống sơ tán thiên tai.",
+            "Mô tả các bước thoát nạn khi phát hiện cháy trong trường học."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 8",
+      "Một số nội dung điều lệnh Công an nhân dân",
+      42,
+      [
+        [
+          "d",
+          "Ý nghĩa của điều lệnh",
+          [
+            "Điều lệnh quy định những nguyên tắc, tư thế, tác phong và hành vi nhằm duy trì sự thống nhất, kỉ luật, lễ tiết và hiệu quả thực hiện nhiệm vụ trong lực lượng.",
+            "Việc tìm hiểu điều lệnh giúp học sinh rèn tác phong nghiêm túc, tư thế đúng, ý thức chấp hành mệnh lệnh và tôn trọng quy định nơi công cộng.",
+            "Nội dung học tập cần theo hướng dẫn của giáo viên; những động tác thực hành phải được thực hiện trong không gian an toàn và đúng yêu cầu bài học."
+          ]
+        ],
+        [
+          "d",
+          "Tác phong và lễ tiết",
+          [
+            "Tác phong nghiêm túc thể hiện qua tư thế đứng, đi, chào hỏi, cách xưng hô và thái độ giao tiếp phù hợp hoàn cảnh.",
+            "Khi thực hiện động tác theo hiệu lệnh, cần chú ý nghe rõ khẩu lệnh, quan sát mẫu, thực hiện đúng nhịp và giữ khoảng cách an toàn với người xung quanh.",
+            "Kỉ luật không chỉ là làm đúng động tác mà còn là tinh thần tự giác, tôn trọng tập thể và chịu trách nhiệm với hành vi."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ khi thực hành",
+          [
+            "Nghe và thực hiện theo hướng dẫn của giáo viên; không tự ý thêm động tác hoặc đùa nghịch trong khi tập.",
+            "Giữ trang phục gọn gàng, tư thế đúng và bảo đảm khoảng cách giữa các học sinh."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu ý nghĩa của việc chấp hành điều lệnh đối với kỉ luật và tác phong.",
+            "Quan sát mẫu động tác do giáo viên hướng dẫn và tự nhận xét những điểm cần sửa."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 9",
+      "Đội ngũ từng người không có súng",
+      48,
+      [
+        [
+          "d",
+          "Mục đích và yêu cầu",
+          [
+            "Đội ngũ từng người không có súng nhằm rèn luyện tư thế, tác phong, khả năng chấp hành khẩu lệnh và sự thống nhất trong hoạt động tập thể.",
+            "Trước khi luyện tập, cần chọn mặt bằng bằng phẳng, không trơn trượt, giữ khoảng cách và khởi động phù hợp để tránh va chạm.",
+            "Các động tác được học theo trình tự: nghe khẩu lệnh, chuẩn bị tư thế, thực hiện động tác và trở về tư thế theo yêu cầu của giáo viên."
+          ]
+        ],
+        [
+          "d",
+          "Thực hiện động tác theo hướng dẫn",
+          [
+            "Những nội dung đội ngũ cơ bản thường gồm tư thế nghiêm, nghỉ, quay tại chỗ, chào, đi đều và đổi chân theo khẩu lệnh của bài học.",
+            "Chất lượng động tác thể hiện ở tư thế ngay ngắn, động tác dứt khoát, đúng hướng, đúng nhịp và khả năng giữ cự li.",
+            "Khi chưa rõ khẩu lệnh hoặc động tác, cần đề nghị giáo viên làm mẫu lại thay vì tự suy đoán; luyện tập tăng dần, không cố thực hiện khi đau hoặc mất thăng bằng."
+          ]
+        ],
+        [
+          "f",
+          "Tự kiểm tra",
+          [
+            "Đứng đúng tư thế, mắt nhìn theo hướng quy định, giữ thân người cân đối và không tự ý nói chuyện trong hàng.",
+            "Thực hiện theo hiệu lệnh; kết thúc động tác mới điều chỉnh vị trí khi được phép."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Trình bày mục đích của luyện tập đội ngũ từng người không có súng.",
+            "Thực hành các động tác trong bài theo khẩu lệnh và tiêu chí giáo viên đưa ra.",
+            "Tự đánh giá về tư thế, nhịp động tác và khả năng chấp hành hiệu lệnh."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 10",
+      "Đội ngũ tiểu đội",
+      60,
+      [
+        [
+          "d",
+          "Đội ngũ tiểu đội và vai trò",
+          [
+            "Đội ngũ tiểu đội là hình thức tổ chức các cá nhân thành một đơn vị nhỏ, giúp duy trì đội hình, cự li, hàng ngũ và sự thống nhất khi nhận, thực hiện hiệu lệnh.",
+            "Trong học tập, các thành viên cần xác định vị trí của mình, chú ý người chỉ huy, giữ hàng và điều chỉnh đội hình theo hướng dẫn.",
+            "Đội hình đúng giúp quản lí tập thể, tổ chức di chuyển và thực hiện hoạt động đồng bộ, đồng thời rèn tinh thần trách nhiệm."
+          ]
+        ],
+        [
+          "d",
+          "Tổ chức và giữ đội hình",
+          [
+            "Các yêu cầu cơ bản gồm tập hợp đúng vị trí, chỉnh hàng, giữ cự li và giãn cách, chú ý khẩu lệnh và không tự ý rời hàng.",
+            "Người được phân công chỉ huy cần phát khẩu lệnh rõ ràng, đúng trình tự; các thành viên nghe hết khẩu lệnh rồi thực hiện thống nhất.",
+            "Khi luyện tập, cần quan sát toàn đội hình, sửa sai bình tĩnh, tránh chen lấn và bảo đảm không gian đủ rộng."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ",
+          [
+            "Đội hình hiệu quả đòi hỏi hiệu lệnh rõ, người thực hiện tập trung và sự phối hợp giữa các thành viên.",
+            "An toàn, kỉ luật và đúng hướng dẫn quan trọng hơn tốc độ thực hiện."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu lợi ích của việc giữ đúng hàng ngũ, cự li và giãn cách.",
+            "Thực hành tập hợp, chỉnh đốn đội ngũ tiểu đội theo hướng dẫn của giáo viên.",
+            "Đánh giá vai trò của người chỉ huy và từng thành viên trong đội hình."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 11",
+      "Các tư thế, động tác cơ bản vận động trong chiến đấu",
+      67,
+      [
+        [
+          "d",
+          "Mục đích và nguyên tắc học tập",
+          [
+            "Bài học giới thiệu các tư thế, động tác vận động cơ bản trong chiến đấu ở mức kiến thức giáo dục quốc phòng, nhằm hiểu yêu cầu về tư thế, phối hợp và an toàn khi vận động.",
+            "Việc thực hành phải do giáo viên hướng dẫn trên địa điểm phù hợp, theo đúng quy định an toàn; không tự ý luyện tập ở nơi công cộng hoặc mô phỏng tình huống nguy hiểm.",
+            "Cần khởi động, quan sát mẫu, thực hiện từng bước và dừng lại khi có đau, chóng mặt hoặc nguy cơ va chạm."
+          ]
+        ],
+        [
+          "d",
+          "Tư thế vận động và an toàn",
+          [
+            "Các tư thế vận động được lựa chọn tùy địa hình, nhiệm vụ và điều kiện cụ thể. Trong giờ học, học sinh cần tập trung vào cách giữ thăng bằng, phối hợp tay chân và tuân thủ hiệu lệnh của giáo viên.",
+            "Trước khi thực hành, kiểm tra mặt sân, loại bỏ vật cản nguy hiểm và bảo đảm khoảng cách giữa các nhóm. Không thực hiện động tác trên nền trơn, gần đường xe chạy hoặc khu vực có vật sắc nhọn.",
+            "Việc vận động có kiểm soát giúp rèn sức bền, sự linh hoạt, tính kỉ luật và khả năng phối hợp."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ",
+          [
+            "Chỉ thực hành theo mẫu và yêu cầu của giáo viên; không biến bài học thành trò chơi nguy hiểm.",
+            "Ưu tiên an toàn, đúng kĩ thuật và khả năng dừng lại khi cần."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu mục đích của việc học các tư thế, động tác vận động cơ bản.",
+            "Liệt kê những điều cần kiểm tra để bảo đảm an toàn trước khi luyện tập.",
+            "Nhận xét vì sao phải thực hiện theo mẫu và khẩu lệnh thống nhất."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 12",
+      "Kĩ thuật cấp cứu và chuyển thương",
+      73,
+      [
+        [
+          "d",
+          "Nguyên tắc sơ cứu ban đầu",
+          [
+            "Khi phát hiện người bị nạn, trước hết quan sát nguy cơ tại hiện trường và bảo đảm an toàn cho bản thân, nạn nhân và người xung quanh. Không lao vào nơi có điện, cháy, giao thông hoặc hóa chất nguy hiểm.",
+            "Gọi cấp cứu và báo người có trách nhiệm; cung cấp vị trí, số người bị nạn, tình trạng quan sát được và nguy cơ tại hiện trường. Làm theo hướng dẫn của nhân viên cấp cứu.",
+            "Không di chuyển người nghi chấn thương đầu, cổ hoặc cột sống trừ khi ở lại gây nguy hiểm tức thời; hạn chế cử động và chờ người có chuyên môn."
+          ]
+        ],
+        [
+          "d",
+          "Một số chăm sóc ban đầu",
+          [
+            "Nếu có chảy máu ngoài, dùng gạc hoặc vải sạch ép trực tiếp lên vết thương nếu an toàn; không tự ý rút dị vật cắm sâu. Với bỏng, làm mát bằng nước sạch mát trong thời gian phù hợp, không bôi chất lạ hoặc làm vỡ bóng nước.",
+            "Nếu người bị nạn bất tỉnh hoặc không thở bình thường, gọi cấp cứu ngay và thực hiện hồi sức tim phổi nếu đã được huấn luyện hoặc làm theo hướng dẫn của tổng đài cấp cứu.",
+            "Giữ ấm, trấn an nạn nhân, theo dõi tình trạng và không cho ăn uống khi người đó lơ mơ hoặc có nguy cơ cần can thiệp y tế."
+          ]
+        ],
+        [
+          "d",
+          "Chuyển thương và phối hợp",
+          [
+            "Chỉ di chuyển nạn nhân khi cần tránh nguy hiểm trực tiếp hoặc theo hướng dẫn của người có chuyên môn. Việc nâng, đỡ và chuyển cần đủ người, phối hợp thống nhất, tránh làm tăng tổn thương.",
+            "Không cố nắn chỉnh xương gãy hoặc tự làm thủ thuật vượt quá khả năng. Cố định phần bị thương ở tư thế tìm thấy khi có thể và chờ hỗ trợ y tế.",
+            "Khi chuyển giao nạn nhân cho nhân viên y tế, cung cấp thông tin về thời điểm xảy ra sự việc, cơ chế chấn thương, biểu hiện và các sơ cứu đã thực hiện."
+          ]
+        ],
+        [
+          "f",
+          "Ghi nhớ khẩn cấp",
+          [
+            "An toàn hiện trường → gọi cấp cứu → sơ cứu trong khả năng → theo dõi nạn nhân → bàn giao thông tin.",
+            "Không gây nguy hiểm cho bản thân; không thực hiện thủ thuật chưa được huấn luyện; tuân theo hướng dẫn của cấp cứu và nhân viên y tế."
+          ]
+        ],
+        [
+          "q",
+          "Luyện tập và vận dụng",
+          [
+            "Nêu trình tự ưu tiên khi phát hiện người bị nạn.",
+            "Đóng vai gọi cấp cứu, mô tả ngắn gọn địa điểm, tình trạng và nguy cơ tại hiện trường.",
+            "Giải thích vì sao không nên tùy tiện di chuyển người nghi chấn thương cổ hoặc cột sống."
+          ]
+        ]
+      ]
+    ]
+  ]
+}
