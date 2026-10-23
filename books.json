@@ -38,5 +38,10 @@
     "id": "giao-duc-quoc-phong-an-ninh-10",
     "title": "Giáo dục quốc phòng và an ninh 10",
     "file": "books/giao-duc-quoc-phong-an-ninh-10.json"
+  },
+  {
+    "id": "ngu-van-10-tap-1-kntt",
+    "title": "Ngữ văn 10 tập một · Kết nối tri thức với cuộc sống",
+    "file": "books/ngu-van-10-tap-1.json"
   }
 ]
