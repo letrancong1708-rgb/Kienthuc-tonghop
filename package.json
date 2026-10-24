@@ -1,0 +1,16 @@
+{
+  "name": "kienthuc-tonghop",
+  "version": "1.0.0",
+  "description": "Ứng dụng học tập tổng hợp kiến thức sách giáo khoa lớp 10",
+  "scripts": {
+    "build": "echo 'Static HTML project - no build needed'",
+    "dev": "npx serve .",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": ["education", "vietnamese", "learning"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
